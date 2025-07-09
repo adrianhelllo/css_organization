@@ -10,7 +10,7 @@
 
 ## BEM Methodology:
 
--- B - Block: The block is a standalone component in the HTML / CSS e.g., menu. This can be a default semantic HTML element, or possibly a class (like .menu).
+-- B - Block: The block is a standalone component in the HTML / CSS, e.g., menu. This can be a default semantic HTML element, or possibly a class (like .menu).
 
 -- E - Element: The element is a dependent part of the block (e.g., header__title or header__item). Naming scheme uses dunders (double underscores).
 
